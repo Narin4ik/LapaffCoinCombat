@@ -1,2 +1,2 @@
-# LapaffCoinCombat
+# Lapaff Coin Combat
 Coming soon... )
