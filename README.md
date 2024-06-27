@@ -23,7 +23,7 @@
 - **Процессор:** Intel Core i3-2100 или AMD Phenom II X4 965
 - **Оперативная память:** 4 GB RAM
 - **Видеокарта:** NVIDIA GeForce GTX 460 или AMD Radeon HD 5770 с 1GB VRAM
-- **DirectX:** версии 9/11
+- **DirectX:** версии 9
 - **Место на диске:** ??? GB свободного места
 ### Рекомендованые
 - **ОС:** Windows 10 (64-bit)
