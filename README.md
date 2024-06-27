@@ -36,4 +36,4 @@
 ## Интерфейс игры
 Данное приложеное фото является не окончательным видом игры. В будущем может быть изменено или доработано.
 
-![gameprew](https://media.discordapp.net/attachments/639792159469469698/1255779671027617834/image.png?ex=667e5f74&is=667d0df4&hm=dec8bf14b5154033dcb34f09c74c444af5877a1e88d53ff38152817099f07f9d&=&format=webp&quality=lossless&width=337&height=350)
+![gameprew](https://media.discordapp.net/attachments/924209846486728715/1255941279443849256/uRZ8l5.png?ex=667ef5f7&is=667da477&hm=cbd6211f6b32849f3c1e2c62e98ff3b4b40a041936bb0efe839d32d2be49ba5c&=&format=webp&quality=lossless&width=538&height=559)
