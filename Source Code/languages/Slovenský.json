@@ -1,0 +1,21 @@
+{
+    "created_by": "Vytvorené Narinom.",
+    "balance": "Zostatok",
+    "lapaff_coins": "lapaff coins",
+    "upgrades": "Vylepšenia",
+    "profit_increase": "Zvýšenie zisku o 0.1x.",
+    "cost": "Náklady",
+    "upgrade": "Vylepšiť",
+    "telegram_channel": "Telegram kanál vývojára",
+    "settings": "Nastavenia",
+    "music_volume": "Hlasitosť hudby",
+    "language": "Jazyk",
+    "save": "Uložiť",
+    "settings_saved": "Nastavenia uložené",
+    "settings_saved_message": "Nastavenia boli uložené. Hra sa bude reštartovať pre aplikáciu zmien.",
+    "not_enough_coins": "Nedostatok mincí",
+    "not_enough_coins_message": "Nemáte dostatok lapaff mincí na nákup tohto vylepšenia.",
+    "auto_clicker_error": "Nemôžete používať auto-klikadlo! 😡",
+    "play_with_me": "Hraj so mnou!",
+    "telegram_channel": "Telegram kanál vývojára"
+}

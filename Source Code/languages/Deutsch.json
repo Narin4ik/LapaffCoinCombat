@@ -1,0 +1,21 @@
+{
+    "created_by": "Erstellt von Narin.",
+    "balance": "Guthaben",
+    "lapaff_coins": "lapaff coins",
+    "upgrades": "Upgrades",
+    "profit_increase": "Gewinnsteigerung um 0.1x.",
+    "cost": "Kosten",
+    "upgrade": "Upgrade",
+    "telegram_channel": "Entwickler Telegram Kanal",
+    "settings": "Einstellungen",
+    "music_volume": "Musiklautstärke",
+    "language": "Sprache",
+    "save": "Speichern",
+    "settings_saved": "Einstellungen gespeichert",
+    "settings_saved_message": "Einstellungen wurden gespeichert. Das Spiel wird neu gestartet, um die Änderungen zu übernehmen.",
+    "not_enough_coins": "Nicht genügend Münzen",
+    "not_enough_coins_message": "Du hast nicht genug Lapaff Münzen, um dieses Upgrade zu kaufen.",
+    "auto_clicker_error": "Du kannst keinen Auto-Clicker verwenden! 😡",
+    "play_with_me": "Spiel mit mir!",
+    "telegram_channel": "Entwickler Telegram Kanal"
+}

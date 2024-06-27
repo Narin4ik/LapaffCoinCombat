@@ -1,0 +1,21 @@
+{
+    "created_by": "Created by Narin.",
+    "balance": "Balance",
+    "lapaff_coins": "lapaff coins",
+    "upgrades": "Upgrades",
+    "profit_increase": "Profit increase of 0.1x.",
+    "cost": "Cost",
+    "upgrade": "Upgrade",
+    "telegram_channel": "Developer's Telegram channel",
+    "settings": "Settings",
+    "music_volume": "Music volume",
+    "language": "Language",
+    "save": "Save",
+    "settings_saved": "Settings Saved",
+    "settings_saved_message": "Settings have been saved. The game will restart to apply changes.",
+    "not_enough_coins": "Not enough coins",
+    "not_enough_coins_message": "You don't have enough lapaff coins to buy this upgrade.",
+    "auto_clicker_error": "You can't use an auto-clicker! 😡",
+    "play_with_me": "Play with me!",
+    "telegram_channel": "Developer's Telegram channel"
+}

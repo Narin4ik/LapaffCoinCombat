@@ -1,0 +1,21 @@
+{
+    "created_by": "Vytvořeno Narinem.",
+    "balance": "Zůstatek",
+    "lapaff_coins": "lapaff coins",
+    "upgrades": "Upgrady",
+    "profit_increase": "Zvýšení zisku o 0.1x.",
+    "cost": "Náklady",
+    "upgrade": "Upgradovat",
+    "telegram_channel": "Telegram kanál vývojáře",
+    "settings": "Nastavení",
+    "music_volume": "Hlasitost hudby",
+    "language": "Jazyk",
+    "save": "Uložit",
+    "settings_saved": "Nastavení uloženo",
+    "settings_saved_message": "Nastavení bylo uloženo. Hra bude restartována pro aplikaci změn.",
+    "not_enough_coins": "Nedostatek mincí",
+    "not_enough_coins_message": "Nemáte dostatek lapaff mincí k nákupu tohoto upgradu.",
+    "auto_clicker_error": "Nemůžete používat auto-klikadlo! 😡",
+    "play_with_me": "Hrajte se mnou!",
+    "telegram_channel": "Telegram kanál vývojáře"
+}

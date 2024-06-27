@@ -1,0 +1,21 @@
+{
+    "created_by": "Creato da Narin.",
+    "balance": "Saldo",
+    "lapaff_coins": "lapaff coins",
+    "upgrades": "Aggiornamenti",
+    "profit_increase": "Aumento dei profitti dello 0.1x.",
+    "cost": "Costo",
+    "upgrade": "Aggiorna",
+    "telegram_channel": "Canale Telegram dello sviluppatore",
+    "settings": "Impostazioni",
+    "music_volume": "Volume della musica",
+    "language": "Lingua",
+    "save": "Salva",
+    "settings_saved": "Impostazioni salvate",
+    "settings_saved_message": "Le impostazioni sono state salvate. Il gioco verrà riavviato per applicare le modifiche.",
+    "not_enough_coins": "Non abbastanza monete",
+    "not_enough_coins_message": "Non hai abbastanza monete lapaff per acquistare questo aggiornamento.",
+    "auto_clicker_error": "Non puoi usare un auto-clic! 😡",
+    "play_with_me": "Gioca con me!",
+    "telegram_channel": "Canale Telegram dello sviluppatore"
+}

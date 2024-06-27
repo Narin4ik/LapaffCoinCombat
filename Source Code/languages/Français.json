@@ -1,0 +1,21 @@
+{
+    "created_by": "Créé par Narin.",
+    "balance": "Solde",
+    "lapaff_coins": "lapaff coins",
+    "upgrades": "Améliorations",
+    "profit_increase": "Augmentation des bénéfices de 0.1x.",
+    "cost": "Coût",
+    "upgrade": "Améliorer",
+    "telegram_channel": "Chaîne Telegram du développeur",
+    "settings": "Paramètres",
+    "music_volume": "Volume de la musique",
+    "language": "Langue",
+    "save": "Sauvegarder",
+    "settings_saved": "Paramètres sauvegardés",
+    "settings_saved_message": "Les paramètres ont été sauvegardés. Le jeu sera redémarré pour appliquer les modifications.",
+    "not_enough_coins": "Pas assez de pièces",
+    "not_enough_coins_message": "Vous n'avez pas assez de pièces lapaff pour acheter cette amélioration.",
+    "auto_clicker_error": "Vous ne pouvez pas utiliser d'auto-clic! 😡",
+    "play_with_me": "Joue avec moi!",
+    "telegram_channel": "Chaîne Telegram du développeur"
+}

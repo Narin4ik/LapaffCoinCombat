@@ -1,0 +1,21 @@
+{
+    "created_by": "Stworzone przez Narin.",
+    "balance": "Saldo",
+    "lapaff_coins": "lapaff coins",
+    "upgrades": "Ulepszenia",
+    "profit_increase": "Zwiększenie zysków o 0.1x.",
+    "cost": "Koszt",
+    "upgrade": "Ulepszyć",
+    "telegram_channel": "Kanał Telegram dewelopera",
+    "settings": "Ustawienia",
+    "music_volume": "Głośność muzyki",
+    "language": "Język",
+    "save": "Zapisz",
+    "settings_saved": "Ustawienia zapisane",
+    "settings_saved_message": "Ustawienia zostały zapisane. Gra zostanie ponownie uruchomiona w celu zastosowania zmian.",
+    "not_enough_coins": "Niewystarczająca liczba monet",
+    "not_enough_coins_message": "Nie masz wystarczającej liczby monet lapaff, aby kupić to ulepszenie.",
+    "auto_clicker_error": "Nie można używać auto-klikania! 😡",
+    "play_with_me": "Zagraj ze mną!",
+    "telegram_channel": "Kanał Telegram dewelopera"
+}

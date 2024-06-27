@@ -1,0 +1,21 @@
+{
+    "created_by": "由Narin创建。",
+    "balance": "余额",
+    "lapaff_coins": "lapaff coins",
+    "upgrades": "升级",
+    "profit_increase": "利润增加0.1x。",
+    "cost": "成本",
+    "upgrade": "升级",
+    "telegram_channel": "开发者的Telegram频道",
+    "settings": "设置",
+    "music_volume": "音乐音量",
+    "language": "语言",
+    "save": "保存",
+    "settings_saved": "设置已保存",
+    "settings_saved_message": "设置已保存。游戏将重新启动以应用更改。",
+    "not_enough_coins": "硬币不足",
+    "not_enough_coins_message": "您没有足够的lapaff硬币来购买此升级。",
+    "auto_clicker_error": "你不能使用自动点击器！ 😡",
+    "play_with_me": "跟我玩！",
+    "telegram_channel": "开发者的Telegram频道"
+}
